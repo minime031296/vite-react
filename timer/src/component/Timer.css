@@ -1,0 +1,21 @@
+#countdown {
+    margin-left : 500px;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#inc {
+    
+    margin-left : 450px;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+}
+
+#inc:hover,
+#reset:hover, 
+#pause:hover,
+#resume:hover {
+    background-color: skyblue;
+}
+
+
+
